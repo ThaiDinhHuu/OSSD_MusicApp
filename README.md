@@ -3,18 +3,18 @@
 <p align="center"><b>Rainy Musicart is a lightweight music player with an aesthetically pleasing design~</b></p>
 <kbd><img src="https://user-images.githubusercontent.com/88582190/266058070-c806c611-f65c-459f-bce3-e2ea2a175db3.png"></kbd>
 
-## About
-- **Rainy Musicart is a lightweight music player built in Python that makes use of the lovely [DearPyGui](https://github.com/hoffstadt/DearPyGui/) for the aesthetically designed interface as well as a number of third-party libraries.**
+## Giới thiệu
+- **SGU Musicart là một trình phát nhạc nhẹ được xây dựng bằng Python sử dụng [DearPyGui](https://github.com/hoffstadt/DearPyGui/) để có giao diện được thiết kế thẩm mỹ cũng như một số thư viện của bên thứ ba.**
 
-## Install
-- **Download the repository**
-- **Install dependencies using pip `pip install -r requirements.txt`**
-- **Run Rainy.py**
+## Cài đặt
+- **Tải xuống repository**
+- **Cài đặt thư viện bằng pip `pip install -r requirements.txt`**
+- **Chạy ứng dụng bằng `python main.py`**
 
-## Is it open-source?
-- **Licensed Under [GPL-3.0](https://github.com/NotCookey/Rainy/blob/main/LICENSE)**
+## Thành viên nhóm
+> **Thái Đình Hữu - 3120410227**
 
-## Thank you
-> **Thank you for visiting, Hope you found something useful!**
+> **Dương Minh Khánh - 3120410241**
 
-> **Developed and Maintained By [NotCookey](https://github.com/NotCookey)**
+> **Lê Tuấn Hưng - 3120410221**
+
