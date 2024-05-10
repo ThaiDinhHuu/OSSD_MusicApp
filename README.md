@@ -8,7 +8,7 @@
 ## Cài đặt
 - **Tải xuống repository**
 - **Cài đặt thư viện bằng pip `pip install -r requirements.txt`**
-- **Chạy ứng dụng bằng `python main.py`**
+- **Chạy ứng dụng `python main.py`**
 
 ## Thành viên nhóm
 > **Thái Đình Hữu - 3120410227**
