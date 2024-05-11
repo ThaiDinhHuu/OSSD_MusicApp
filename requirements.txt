@@ -1,3 +1,4 @@
 dearpygui
 mutagen
 pygame
+yt_dlp
