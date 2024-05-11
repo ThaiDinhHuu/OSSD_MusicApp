@@ -17,6 +17,14 @@ _ yt-dlp là trình tải xuống âm thanh/video dòng lệnh giàu tính năng
 - **Cài đặt thư viện bằng pip `pip install -r requirements.txt`**
 - **Chạy ứng dụng `python main.py`**
 
+## Chức năng
+_**Phát ngẫu nhiên, dừng, tạm dừng và tiếp tục bài hát.** 
+_**Tiếp theo và quay lại các bài hát trước đó**
+_**Điều chỉnh âm lượng**
+_**Thêm file và folder bài hát để phát nhạc**
+_**Tìm kiếm bài hát**
+_**Tải xuống file mp3 từ đường dẫn youtube**
+
 ## Thành viên nhóm
 > **Thái Đình Hữu - 3120410227**
 
