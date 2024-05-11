@@ -283,8 +283,8 @@ def download_and_add():
         filename = download_youtube_audio(youtube_url, download_path)  # Đảm bảo là MP3
         
         # Thêm vào danh sách phát
-        result = add_to_playlist(json_file_path, filename)  # Đảm bảo là ".mp3"
-        print(result)
+        # result = add_to_playlist(json_file_path, filename)  # Đảm bảo là ".mp3"
+        # print(result)
     
     except Exception as e:
         print(f"Error during download: {e}")
