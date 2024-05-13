@@ -25,6 +25,22 @@ _ yt-dlp là trình tải xuống âm thanh/video dòng lệnh giàu tính năng
 - **Tìm kiếm bài hát**
 - **Tải xuống file mp3 từ đường dẫn youtube**
 
+## Hướng dẫn sử dụng
+Hướng dẫn sử dụng
+
+1. Thêm, xóa bài hát khỏi danh sách phát hoặc tải bài hát từ youtube.
+- **Bạn có thể nhấp vào nút "Add file" để lần lượt thêm bài hát yêu thích của bạn hoặc có thể chon "Add folder" để thêm nhiều bài hát cùng một lúc .**
+- **Bạn chọn bài hát không thích trong danh sách bài hát và nhấn nút "Remove this song" để xóa bài hát đó khỏi danh sách bài hát.**
+- **Bên cạnh đó có thể tải bài hát trực tiếp từ youtube bằng cách nhập url và bấm Download**
+2. Phát, tạm dừng, dừng:
+- **Sau khi thêm danh sách bài hát, bạn có thể nhấn nút "Play" để phát ngẫu nhiên một bài hát trong danh sách phát**
+- **Bạn có thể tạm dừng một bài hát bằng cách nhấp vào nút "Pause" và tiếp tục phát bài hát đó bằng cách nhấp vào nút "Play".**
+- **Bạn hoàn toàn có thể dừng bài hát bằng cách nhấn vào nút "Stop".**
+3. Chuyển bài hát và điều chỉnh âm thanh:
+- **Bạn có thể chuyển sang bài hát tiếp theo bằng cách nhấp vào nút "Next".**
+- **Bạn có thể quay lại bài hát trước bằng cách nhấp vào nút "Pre".**
+- **Bạn có thể điều chỉnh âm lượng bằng cách kéo thanh âm lượng lên hoặc xuống .**
+
 ## Thành viên nhóm
 > **Thái Đình Hữu - 3120410227**
 
