@@ -26,7 +26,6 @@ _ yt-dlp là trình tải xuống âm thanh/video dòng lệnh giàu tính năng
 - **Tải xuống file mp3 từ đường dẫn youtube**
 
 ## Hướng dẫn sử dụng
-Hướng dẫn sử dụng
 
 1. Thêm, xóa bài hát khỏi danh sách phát hoặc tải bài hát từ youtube.
 - **Bạn có thể nhấp vào nút "Add file" để lần lượt thêm bài hát yêu thích của bạn hoặc có thể chon "Add folder" để thêm nhiều bài hát cùng một lúc .**
