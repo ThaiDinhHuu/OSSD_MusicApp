@@ -39,6 +39,8 @@ _ yt-dlp là trình tải xuống âm thanh/video dòng lệnh giàu tính năng
 - **Bạn có thể chuyển sang bài hát tiếp theo bằng cách nhấp vào nút "Next".**
 - **Bạn có thể quay lại bài hát trước bằng cách nhấp vào nút "Pre".**
 - **Bạn có thể điều chỉnh âm lượng bằng cách kéo thanh âm lượng lên hoặc xuống .**
+4. Tìm kiếm bài hát
+- **Bạn chỉnh cần nhập tên bài hát vào ô "Search for a Song" thì bài hát có tên gần giống sẽ xuất hiện trên playlist**
 
 ## Thành viên nhóm
 > **Thái Đình Hữu - 3120410227**
