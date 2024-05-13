@@ -12,6 +12,8 @@ _ pygame là thư viện đa nền tảng mã nguồn mở và miễn phí để
 
 _ yt-dlp là trình tải xuống âm thanh/video dòng lệnh giàu tính năng với sự hỗ trợ cho hàng nghìn trang web .
 
+_ JSON (JavaScript Object Notation) là một định dạng dữ liệu nhẹ và dễ sử dụng, được thiết kế để trao đổi thông tin giữa các ứng dụng và nền tảng. Nó được sử dụng phổ biến trong lập trình web, API, và nhiều lĩnh vực khác nhờ khả năng đơn giản, linh hoạt và dễ đọc cho cả con người và máy tính.
+
 ## Cài đặt
 - **Tải xuống repository**
 - **Cài đặt thư viện bằng pip `pip install -r requirements.txt`**
