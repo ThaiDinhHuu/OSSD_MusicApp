@@ -43,7 +43,10 @@ _ JSON (JavaScript Object Notation) là một định dạng dữ liệu nhẹ v
 - **Bạn có thể điều chỉnh âm lượng bằng cách kéo thanh âm lượng lên hoặc xuống .**
 4. Tìm kiếm bài hát
 - **Bạn chỉnh cần nhập tên bài hát vào ô "Search for a Song" thì bài hát có tên gần giống sẽ xuất hiện trên playlist**
-
+5. Tải bài hát từ youtube
+ - **Bạn chỉ cần dán liên kết YouTube của bài hát hoặc video mà họ muốn tải xuống vào phần mềm. Phần mềm sẽ tự động chuyển đổi video thành tệp âm thanh và tải xuống máy tính của người dùng. Tính năng này giúp
+người dùng dễ dàng tiếp cận và lưu trữ các bản nhạc yêu thích từ
+YouTube mà không cần sử dụng thêm bất kỳ công cụ nào khác**
 ## Thành viên nhóm
 > **Thái Đình Hữu - 3120410227**
 
